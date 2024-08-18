@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "留嘉城的个人博客"
+title: "留嘉城的精神花园"
 author_profile: true
 redirect_from: 
   - /about/
