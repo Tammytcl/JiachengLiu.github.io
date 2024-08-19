@@ -11,11 +11,14 @@ redirect_from:
 
 Education
 ======
-- **Undergraduate**, 2022 - Present
+- **Undergraduate**, 2022 - Present 
   - Shandong University
   - **Major**: Computer Science and Technology
   - **GPA**: 91.59/100
   - **English Proficiency**: CET4 607, CET6 575
+
+
+---
 
 # Research Experience
 
@@ -37,7 +40,10 @@ Education
 - **主要工作 (Key Activities):** Engaged in computer simulation, algorithm optimization, and result visualization to ensure the precision and efficiency of the forming process. 进行了计算机模拟仿真、算法优化和结果可视化，确保了成型过程的精确性和效率。
 - **创新 (Innovation):** Developed a springback compensation strategy based on predictive modeling, contributing to the improvement of forming quality and reduction of post-forming adjustments. 制定了一项反弹补偿策略，基于预测模型，有助于改善成型质量和减少成型后的调整工作。
 - **成果 (Outcome):** 产出为一项软件著作权，名称为《渐进式三维自由弯曲成形操作系统》(Progressive 3D Free Bending Forming Operating System)，已注册登记。
- 
+
+
+---
+
 
 Awards
 ======
@@ -57,6 +63,9 @@ Awards
 * 2022 Mathorcup University Mathematical Modeling Challenge Competition Big Data Competition Undergraduate Group / 2022 年 Mathorcup 高校数学建模挑战赛大数据竞赛本科生组 - Second Prize
 * The 4th "HuaShu Cup" National College Student Mathematical Modeling Competition Undergraduate Group / 第四届“华数杯”全国大学生数学建模竞赛 本科生组 - Second Prize
 
+
+
+
 Scholarships and Honorary Titles
 ======
 * Shandong University Special Talent Award (Entrepreneurship Practice, Research Innovation) 山东大学 特长奖(创业实践类、研究创新类)
@@ -65,11 +74,16 @@ Scholarships and Honorary Titles
 * Shandong University May Fourth Advanced Individual 山东大学 五四先进个人
 * Outstanding Individual in Social Practice at Shandong University 山东大学 校级社会实践优秀个人
 
+---
+
 
 # Software Copyright / Patent
 * Patent Application: One pending application for an invention patent, entitled "A Comprehensive Children's Music Education System." 发明专利 1 份在申，专利名称《一种综合性儿童音乐教学系统》
 * Software Copyright: One registered copyright for a software work, entitled "The Tale Of Sound Art - A Children's Music Enlightenment Assistant Software Based on MR Glasses Interaction." 软件著作名称《音艺物语-基于 MR 眼镜交互的儿童音乐启蒙辅助软件》
 * Software Copyright 2: Registered for a software work, entitled "Progressive 3D Free Bending Forming Operating System." 软件著作名称《渐进式三维自由弯曲成形操作系统》
+
+
+---
 
 Internship experience
 ======
@@ -78,7 +92,9 @@ Internship experience
   * Duties includes: Engaged in the systematic analysis of questionnaires targeting the assessment of innovative capabilities and growth environments among children in remote rural areas.(参与对偏远乡村儿童创新能力和成长环境的问卷调查分析工作。)
   * Supervisor: Professor Gu Wu(吴贾)
 
-  
+
+---
+
 Skills
 ======
 * Reading Enthusiast - Passionate about reading a variety of books across literature, history, technology, and more, continuously enhancing my knowledge and cultural literacy. 阅读爱好者 - 热衷于阅读各类书籍，涵盖文学、历史、科技等多个领域，不断提升自我知识水平和文化素养。
@@ -88,15 +104,29 @@ Skills
 
 
 
-# Social Service
-- **Volunteer Service**: Accumulated over a hundred hours of volunteer service, actively participating in community engagement and various charitable activities. (拥有上百小时的志愿服务时长，积极参与社区服务和各类公益活动。)
-- **Educational Outreach**: Actively involved in primary school campus visitation and demonstration events, contributing to educational outreach and community involvement. (积极参与小学生校园参观展示活动，致力于教育推广和社区参与。)
-- **Technical Support**: Member of the Geek Bird Computer Repair Club, applying technical expertise to support and assist others. (极客鸟电脑维修社团成员，运用技术专长为他人提供支持与帮助。)
-- **Academic Assistance**: Joined the Beidou (Big Dipper) Volunteer Team, actively providing tutoring services to classmates and sharing study notes. (加入北斗星志愿者团队，积极为同学提供答疑服务，分享学习笔记。)
-
+---
 
 # Other Awards
 * 2024 Shandong University 4th "Smart Future (Himile Cup)" Innovation Competition, Innovation Track Award. 2024年山东大学第四届智造未来（豪迈杯）创新大赛 创新赛道获奖
 * "Goertek Cup" 19th (2024) Shandong University Intelligent Innovation and Smart Creative Design Competition for Mechanical and Electrical Products, First and Third Prizes. “歌尔杯”第十九届（2024年）山东大学机电产品智能创新与智慧创意设计竞赛 一、三等奖
 * The 15th (2024) Shandong University College Students' Energy Conservation and Emission Reduction Social Practice and Science and Technology Competition, Second and Third Prizes. 山东大学第十五届（2024年）大学生节能减排社会实践与科技竞赛 二、三等奖
 * The 9th China International College Students' Innovation Contest (2024), Shandong Province Gold Award. 第九届中国国际大学生创新大赛（2024） 山东省金奖
+* Shandong University "Youth Dream Building, Progressing with the Times" Talent Development Lecture Series (Personal Growth Experience Category Outstanding Lecture Team). 山东大学“青春筑梦,与时偕行”成才大讲堂——个人成长经历类 优秀主讲团队
+
+
+
+---
+
+# Social Practice and Service
+## Social Practice Awards
+- "Qu Jing Tong You — Intelligent Progressive 3D Spatial Bending Machine" - Received the University-Level Outstanding Social Practice Award. 曲径通优——智能化渐进式三维空间弯管机，获得校级优秀社会实践奖
+- "Chinese Herbal Medicine Cultivation in the Countryside, Reflecting People's Livelihood, Forging Rural Soul" - Received the University-Level Outstanding Social Practice Award and the Excellent Team Award for the "Three into the Country" Activity. 中药耕乡情，映民生，铸乡魂，获得校级优秀社会实践奖、三下乡优秀团队奖
+
+## 2023 Shandong University Labor Service Practice Position
+- Engaged in "Reader Information Platform Planning and Common Problem Organization" for the 2023 Shandong University Labor Service Practice Position. 参与2023年度山东大学劳动服务实践岗，负责读者资讯平台规划以及常见问题整理
+
+## Social Service Highlights
+- **Volunteer Service**: Accumulated over a hundred hours of volunteer service, actively participating in community engagement and various charitable activities. 拥有上百小时的志愿服务时长，积极参与社区服务和各类公益活动
+- **Educational Outreach**: Actively involved in primary school campus visitation and demonstration events, contributing to educational outreach and community involvement. 积极参与小学生校园参观展示活动，致力于教育推广和社区参与
+- **Technical Support**: Member of the Geek Bird Computer Repair Club, applying technical expertise to support and assist others. 极客鸟电脑维修社团成员，运用技术专长为他人提供支持与帮助
+- **Academic Assistance**: Joined the Beidou (Big Dipper) Volunteer Team, actively providing tutoring services to classmates and sharing study notes. 加入北斗星志愿者团队，积极为同学提供答疑服务，分享学习笔记
