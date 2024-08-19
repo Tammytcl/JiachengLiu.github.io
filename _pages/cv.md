@@ -92,7 +92,7 @@ Skills
 - **Volunteer Service**: Accumulated over a hundred hours of volunteer service, actively participating in community engagement and various charitable activities. (拥有上百小时的志愿服务时长，积极参与社区服务和各类公益活动。)
 - **Educational Outreach**: Actively involved in primary school campus visitation and demonstration events, contributing to educational outreach and community involvement. (积极参与小学生校园参观展示活动，致力于教育推广和社区参与。)
 - **Technical Support**: Member of the Geek Bird Computer Repair Club, applying technical expertise to support and assist others. (极客鸟电脑维修社团成员，运用技术专长为他人提供支持与帮助。)
-- **Academic Assistance**: Joined the Polaris Volunteer Team, actively providing tutoring services to classmates and sharing study notes. (加入北极星志愿者团队，积极为同学提供答疑服务，分享学习笔记。)
+- **Academic Assistance**: Joined the Beidou (Big Dipper) Volunteer Team, actively providing tutoring services to classmates and sharing study notes. (加入北斗星志愿者团队，积极为同学提供答疑服务，分享学习笔记。)
 
 
 # Other Awards
