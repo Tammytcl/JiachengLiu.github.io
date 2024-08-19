@@ -78,41 +78,52 @@ Scholarships and Honorary Titles
 
 
 # Software Copyright / Patent
-* Patent Application: One pending application for an invention patent, entitled "A Comprehensive Children's Music Education System." 发明专利 1 份在申，专利名称《一种综合性儿童音乐教学系统》
-* Software Copyright: One registered copyright for a software work, entitled "The Tale Of Sound Art - A Children's Music Enlightenment Assistant Software Based on MR Glasses Interaction." 软件著作名称《音艺物语-基于 MR 眼镜交互的儿童音乐启蒙辅助软件》
-* Software Copyright 2: Registered for a software work, entitled "Progressive 3D Free Bending Forming Operating System." 软件著作名称《渐进式三维自由弯曲成形操作系统》
+* **Patent Application**: One pending application for an invention patent, entitled "A Comprehensive Children's Music Education System." 发明专利 1 份在申，专利名称《一种综合性儿童音乐教学系统》
+* **Software Copyright 1**: One registered copyright for a software work, entitled "The Tale Of Sound Art - A Children's Music Enlightenment Assistant Software Based on MR Glasses Interaction." 软件著作名称《音艺物语-基于 MR 眼镜交互的儿童音乐启蒙辅助软件》
+* **Software Copyright 2**: Registered for a software work, entitled "Progressive 3D Free Bending Forming Operating System." 软件著作名称《渐进式三维自由弯曲成形操作系统》
 
 
 ---
 
-Internship experience
-======
-* Summer 2023: Questionnaire Analysis Research Assistant "问卷分析科研助理"
-  * Shandong University 山东大学
-  * Duties includes: Engaged in the systematic analysis of questionnaires targeting the assessment of innovative capabilities and growth environments among children in remote rural areas.(参与对偏远乡村儿童创新能力和成长环境的问卷调查分析工作。)
-  * Supervisor: Professor Gu Wu(吴贾)
+# Internship Experience
+## Summer 2023: Questionnaire Analysis Research Assistant
+- **Institution**: Shandong University (山东大学) in collaboration with Shenzhen General Science Technology Education Development Research Center (深圳市通识科技教育发展研究中心)
+- **Position**: Research Assistant specializing in questionnaire analysis
+- **Key Responsibilities**:
+  - Conducted a systematic analysis of questionnaires to assess the innovative capabilities and growth environments of children in remote rural areas, providing valuable insights into educational and developmental needs. (负责对偏远乡村儿童的创新能力和成长环境进行问卷调查分析，为了解教育和发展需求提供了宝贵见解。)
+  - Collaborated with multidisciplinary teams to interpret data, ensuring the research's methodological rigor and relevance to the target population. (与多学科团队合作解读数据，确保研究的方法严谨且与目标人群相关。)
+- **Supervisor**: Professor Gu Wu (吴贾教授)
 
+## November 2023 - May 2024: Undergraduate Research Assistant (URAP)
+- **Project Title**: Medical Volumetry Based on Machine Learning (基于机器学习的医学体绘制)
+- **Institution**: Shandong University (山东大学)
+- **Key Responsibilities**:
+  - Engaged in a pioneering project applying machine learning algorithms to medical volumetry, aiming to enhance diagnostic accuracy and efficiency in clinical settings. (参与应用机器学习算法于医学体积测量的开创性项目，旨在提高临床环境中的诊断准确性和效率。)
+  - Assisted in the development and refinement of machine learning models, including data preparation, feature extraction, and model training, under the guidance of a seasoned academic mentor. (在经验丰富的学术导师的指导下，协助开发和完善机器学习模型，包括数据准备、特征提取和模型训练。)
+- **Mentor**: Associate Professor Yang Fei (杨飞副教授)
 
 ---
 
 Skills
 ======
-* Reading Enthusiast - Passionate about reading a variety of books across literature, history, technology, and more, continuously enhancing my knowledge and cultural literacy. 阅读爱好者 - 热衷于阅读各类书籍，涵盖文学、历史、科技等多个领域，不断提升自我知识水平和文化素养。
-* Sports Lover - Enjoy playing basketball and table tennis. I appreciate the joy of teamwork and competition. 运动爱好者 - 享受团队合作与竞技的快感。
-* Musical Theatre Enthusiast - Deeply interested in musical theatre, appreciating the artistic charm of the combination of music and drama.音乐剧爱好者 - 对音乐剧有深厚兴趣，欣赏音乐剧的艺术魅力，享受音乐与戏剧的完美结合。
+* **Reading Enthusiast** - Passionate about reading a variety of books across literature, history, technology, and more, continuously enhancing my knowledge and cultural literacy. 阅读爱好者 - 热衷于阅读各类书籍，涵盖文学、历史、科技等多个领域，不断提升自我知识水平和文化素养。
+* **Sports Lover** - Enjoy playing basketball and table tennis. I appreciate the joy of teamwork and competition. 运动爱好者 - 享受团队合作与竞技的快感。
+* **Musical Theatre Enthusiast** - Deeply interested in musical theatre, appreciating the artistic charm of the combination of music and drama.音乐剧爱好者 - 对音乐剧有深厚兴趣，欣赏音乐剧的艺术魅力，享受音乐与戏剧的完美结合。
 
 
 
 
 ---
-
-# Other Awards
-* 2024 Shandong University 4th "Smart Future (Himile Cup)" Innovation Competition, Innovation Track Award. 2024年山东大学第四届智造未来（豪迈杯）创新大赛 创新赛道获奖
-* "Goertek Cup" 19th (2024) Shandong University Intelligent Innovation and Smart Creative Design Competition for Mechanical and Electrical Products, First and Third Prizes. “歌尔杯”第十九届（2024年）山东大学机电产品智能创新与智慧创意设计竞赛 一、三等奖
-* The 15th (2024) Shandong University College Students' Energy Conservation and Emission Reduction Social Practice and Science and Technology Competition, Second and Third Prizes. 山东大学第十五届（2024年）大学生节能减排社会实践与科技竞赛 二、三等奖
-* The 9th China International College Students' Innovation Contest (2024), Shandong Province Gold Award. 第九届中国国际大学生创新大赛（2024） 山东省金奖
-* Shandong University "Youth Dream Building, Progressing with the Times" Talent Development Lecture Series (Personal Growth Experience Category Outstanding Lecture Team). 山东大学“青春筑梦,与时偕行”成才大讲堂——个人成长经历类 优秀主讲团队
-
+# Other Awards(一些很水的奖)
+- The 3rd National College Students' Career Development Competition (2023), First Prize. (2023年第三届全国大学生职业发展大赛 一等奖)
+- The 4th College Students' Organizational Management Skills Competition (2023), Second Prize. (2023年第四届大学生组织管理能力大赛 二等奖)
+- Shandong University "Youth Dream Building, Progressing with the Times" Talent Development Lecture Series (Personal Growth Experience Category Outstanding Lecture Team). (山东大学“青春筑梦，与时偕行”成才大讲堂 个人成长经历类优秀主讲团队)
+- "Goertek Cup" 19th Shandong University Intelligent Innovation and Smart Creative Design Competition for Mechanical and Electrical Products (2024), First and Third Prizes. ("歌尔杯"第十九届山东大学机电产品智能创新与智慧创意设计竞赛 一、三等奖 2024年)
+- The 15th Shandong University College Students' Energy Conservation and Emission Reduction Social Practice and Science and Technology Competition (2024), Second and Third Prizes. (山东大学第十五届大学生节能减排社会实践与科技竞赛 二、三等奖 2024年)
+- The 9th China International College Students' Innovation Contest (2024), Shandong Province Gold Award. (第九届中国国际大学生创新大赛 山东省金奖 2024年)
+- "UN Procurement Cup" National College Students' English Vocabulary Competition (2022), Undergraduate Group First Prize. (2022年“联合国采购杯”全国大学生英语词汇大赛 本科组一等奖)
+- "IEERA Cup" International Collegiate English Translation Challenge (2023), Undergraduate Group National Area Second Prize. (2023年“IEERA杯”国际高校英语翻译挑战赛 本科生组国区二等奖)
+- "Innovation Practice Cup" National College Students' English Vocabulary Competition (2022), Third Prize. (2022年“创新实践杯”全国大学生英语词汇竞赛 三等奖)
 
 
 ---
@@ -130,3 +141,4 @@ Skills
 - **Educational Outreach**: Actively involved in primary school campus visitation and demonstration events, contributing to educational outreach and community involvement. 积极参与小学生校园参观展示活动，致力于教育推广和社区参与
 - **Technical Support**: Member of the Geek Bird Computer Repair Club, applying technical expertise to support and assist others. 极客鸟电脑维修社团成员，运用技术专长为他人提供支持与帮助
 - **Academic Assistance**: Joined the Beidou (Big Dipper) Volunteer Team, actively providing tutoring services to classmates and sharing study notes. 加入北斗星志愿者团队，积极为同学提供答疑服务，分享学习笔记
+- **Mental Health Certification**: Certified mental health committee member and qualified psychological therapist by the University Student Mental Health Committee Work Platform. (高校心理委员工作平台认证的心理委员和心理疗法的合格证书
