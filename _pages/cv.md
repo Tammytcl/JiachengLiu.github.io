@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -15,7 +15,7 @@ Education
   - Shandong University
   - **Major**: Computer Science and Technology
   - **GPA**: 91.59/100
-  - **English Proficienc**y: CET4 607, CET6 575
+  - **English Proficiency**: CET4 607, CET6 575
 
 # Research Experience
 
@@ -59,11 +59,11 @@ Awards
 
 Scholarships and Honorary Titles
 ======
-* Shandong University Special Talent Award (Entrepreneurship Practice, Research Innovation) (山东大学特长奖 创业实践类、研究创新类)
-* Shandong University First-Class Excellent Student Scholarship(山东大学 优秀学生一等奖)
-* Shandong University University-Level Merit Student(山东大学 校级三好学生)
-* Shandong University May Fourth Advanced Individual(山东大学 五四先进个人)
-* Outstanding Individual in Social Practice at Shandong University(山东大学 校级社会实践优秀个人)
+* Shandong University Special Talent Award (Entrepreneurship Practice, Research Innovation) 山东大学 特长奖(创业实践类、研究创新类)
+* Shandong University First-Class Excellent Student Scholarship 山东大学 优秀学生一等奖
+* Shandong University University-Level Merit Student 山东大学 校级三好学生
+* Shandong University May Fourth Advanced Individual 山东大学 五四先进个人
+* Outstanding Individual in Social Practice at Shandong University 山东大学 校级社会实践优秀个人
 
 
 # Software Copyright / Patent
