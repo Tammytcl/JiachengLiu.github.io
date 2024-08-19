@@ -10,8 +10,8 @@
 locale                   : "China"
 title                    : "明月偷垂泪的博客"
 title_separator          : "-"
-name                     : "留嘉城"
-description              : "山东大学本科生"
+name                     : "Jiacheng Liu(留嘉城)"
+description              : "Undergraduate Student at Shandong University"
 url                      : https://tammytcl.github.io/JiachengLiu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JiachengLiu/JiachengLiu.github.io"
@@ -22,11 +22,11 @@ repository               : "JiachengLiu/JiachengLiu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "留嘉城"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Jiacheng Liu(留嘉城)"
+  pronouns         : "he/his"
+  bio              : "Computer Science Student/Reading Enthusiast/Guitar Beginner"
   location         : "China"
-  employer         : "Red Brick University"
+  employer         : "Shandong University"
   uri              : # URL
   email            : "202200800027@mail.sdu.edu.cn"
 
