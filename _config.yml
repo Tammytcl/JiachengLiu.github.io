@@ -4,7 +4,7 @@ title                    : "Jiacheng Liu/Personal Homepage"
 title_separator          : "-"
 name                     : "Jiacheng Liu(留嘉城)"
 description              : "Undergraduate Student at Shandong University"
-url                      : https://tammytcl.github.io/JiachengLiu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tammytcl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JiachengLiu/JiachengLiu.github.io"
 
